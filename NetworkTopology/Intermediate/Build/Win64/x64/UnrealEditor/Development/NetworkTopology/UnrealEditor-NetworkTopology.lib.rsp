@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NetworkTopology.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\NetworkTopologyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\NetworkTopology.init.gen.cpp.obj"
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\NetworkTopologyCharacter.gen.cpp.obj"
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\NetworkTopologyGameMode.gen.cpp.obj"
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\NT_HUD.gen.cpp.obj"
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\NetworkTopology.cpp.obj"
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\NetworkTopologyCharacter.cpp.obj"
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\NetworkTopologyGameMode.cpp.obj"
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\NT_HUD.cpp.obj"
+"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\Default.rc2.res"
+/OUT:"C:\Users\s248029\Documents\Unreal Projects\NetworkTopology\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkTopology\UnrealEditor-NetworkTopology.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\s248029\\Documents\\Unreal Projects\\NetworkTopology\\Source\\NetworkTopology\\NetworkTopology.Build.cs",
+		"C:\\Users\\s248029\\Documents\\Unreal Projects\\NetworkTopology\\Source\\NetworkTopology.Target.cs",
+		"C:\\Users\\s248029\\Documents\\Unreal Projects\\NetworkTopology\\Source\\NetworkTopologyEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
